@@ -1,0 +1,11 @@
+score1 = 90
+score2 = 80
+score3 = 70
+
+score_list = [90,80,70]  ## 리스트 자료형
+list1 = ["Kor","Jap","USA"]
+list2 = [90,"kor",10.5]
+
+print(score_list)
+print(score_list[2])
+print(score_list[0] + score_list[2])
